@@ -7,3 +7,6 @@ Simple application in Python for downloading videos from YouTube
 
 </p>
 
+## Alati
+- Python (Pytube & Tkinter)
+
