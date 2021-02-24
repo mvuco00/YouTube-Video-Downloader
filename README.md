@@ -13,6 +13,10 @@ A user needs to enter a youtube link and click on the button to download the vid
 
 </p>
 
-## Alati
+## Built with
 - Python (Pytube & Tkinter)
 
+## Installation
+```
+pip install pytube
+```
